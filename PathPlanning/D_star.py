@@ -255,7 +255,6 @@ def main():
         plt.plot(start_x,start_y,'og')
         show_animation()
 
-
 if __name__ == '__main__':
     main()  
 
